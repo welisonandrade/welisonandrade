@@ -1,5 +1,7 @@
 ## Hi there 👋
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=welisonandrade)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub stats](https://github-readme-stats-eight-theta.vercel.app/api?username=welisonandrade&show_icons=true&theme=tokyonight&hide=stars&include_all_commits=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=welisonandrade&layout=compact&theme=tokyonight&count_private=true&include_all_commits=true&hide=makefile)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **welisonandrade/welisonandrade** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
